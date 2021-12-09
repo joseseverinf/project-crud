@@ -1,0 +1,7 @@
+.register-form {
+    border: 5px solid black;
+    color: black;
+    padding:20px;
+    margin-bottom:20px;
+    display: inline-block;
+}
